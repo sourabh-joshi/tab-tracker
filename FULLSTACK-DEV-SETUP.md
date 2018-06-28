@@ -17,6 +17,9 @@ npm install
 
 # serve with hot reload at localhost
 npm run dev
+
+# install axios for making http requests
+npm install --save axios
 ```
 
 ## Setting Up Server
@@ -47,5 +50,4 @@ npm start
 # install dependencies
 npm install --save express body-parser cors morgan
 
-# 
 ```
